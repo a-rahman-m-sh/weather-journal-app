@@ -23,11 +23,11 @@ this is the function that take the data from API and posting it to dataobject
 this is the unction that access data object and add the values to UI
 
 # How to run 
-1.install node
-2. in terminal write npm install express
-3. in terminal write npm install cors
-4. in terminal write npm install body-parser
-5. in terminal write node sever.js
-6. now try the app in localhost:8000
-7. put zip code in the field and write yourfeeling then click generate
-8. the output will be in last div in the page and will city name, date, tempreture, feeling that you wrote
+### 1.install node
+### 2. in terminal write npm install express
+### 3. in terminal write npm install cors
+### 4. in terminal write npm install body-parser
+### 5. in terminal write node sever.js
+### 6. now try the app in localhost:8000
+### 7. put zip code in the field and write yourfeeling then click generate
+### 8. the output will be in last div in the page and will city name, date, tempreture, feeling that you wrote
